@@ -1,1 +1,6 @@
-theme: minimal
+theme: minima
+title: OWT License
+author:
+  name: Open Web Templates
+description: >
+  The OWT license.
